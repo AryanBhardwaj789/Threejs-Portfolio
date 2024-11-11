@@ -50,7 +50,7 @@ const Contact = () => {
     }
 
     return (
-        <section className='c-space my-20'>
+        <section className='c-space my-20' id='contact'>
             <div className='relative min-h-screen flex items-center justify-center flex-col'>
                 <img src="/assets/terminal.png" alt="terminal background" className='absolute inset-0 min-h-screen' />
                 <div className='contact-container'>
@@ -69,10 +69,10 @@ const Contact = () => {
                                 onChange={handleChange}
                                 required
                                 className='field-input'
-                                placeholder='John Doe' />
+                                placeholder='ex., John Doe' />
                         </label>
                         <label className='space-y-3'>
-                            <span className='field-label'>Email</span>
+                            <span className='field-label'>Email address</span>
                             <input
                                 type="email"
                                 name='email'
@@ -80,10 +80,10 @@ const Contact = () => {
                                 onChange={handleChange}
                                 required
                                 className='field-input'
-                                placeholder='johndoe@gmail.com' />
+                                placeholder='ex., johndoe@gmail.com' />
                         </label>
                         <label className='space-y-3'>
-                            <span className='field-label'>Your Message</span>
+                            <span className='field-label'>Your message</span>
                             <textarea
                                 name='message'
                                 value={form.message}
