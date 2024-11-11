@@ -1,8 +1,30 @@
-# React + Vite
+# Aryan Bhardwaj Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, minimalist portfolio website showcasing my work and skills with a sleek design and smooth animations.
 
-Currently, two official plugins are available:
+## ⚡️ Live Demo
+🔗 [aryanbhardwaj.vercel.app](https://aryanbhardwaj.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Built With
+- **React.js**
+- **Three.js**
+- **React Three Fiber**
+- **React Three Drei**
+- **JavaScript**
+- **Email JS**
+- **Vite**
+- **Tailwind CSS**
+
+
+## 🔥 Features
+
+### Core Features
+- **📱 Responsive Design** - Optimized for all devices and screen sizes
+- **⚡️ Fast Performance** - Optimized with Next.js 14 for lightning-fast loading
+- **🎯 SEO Optimized** - Built with SEO best practices
+
+### UI Components
+- **🎨 Modern UI** - Clean and minimalist design 
+- **✨ Animations** - Smooth transitions and effects
+- **📊 Project Showcase** - Dynamic project display 
+- **📫 Contact Form** - Integrated contact functionality
